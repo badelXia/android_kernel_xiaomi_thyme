@@ -1,0 +1,6 @@
+
+[submodule "KernelSU"]
+	path = KernelSU
+	url = https://github.com/tiann/KernelSU
+    branch = main
+    update = merge
